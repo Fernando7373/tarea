@@ -1,0 +1,20 @@
+{
+  "name": "ap",
+  "version": "1.0.0",
+  "description": "una app chida",
+  "main": "app2.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "sleep": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "app"
+  ],
+  "author": "Fernando Fernandez",
+  "license": "MIT"
+}
